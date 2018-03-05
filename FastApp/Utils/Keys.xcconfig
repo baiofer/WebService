@@ -1,0 +1,9 @@
+//
+//  Keys.xcconfig
+//  FastApp
+//
+//  Created by Fernando Jarilla on 28/2/18.
+//  Copyright © 2018 Henry Bravo. All rights reserved.
+//
+
+TMDB_API_KEY = be738f21665fdee783cea53fbbb99803
